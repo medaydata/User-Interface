@@ -64,3 +64,112 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/***header style**/
+
+
+header{
+	text-align: left;
+	margin:20px 80px 20px 80px;
+	border: 2px solid blue;
+}
+
+header nav{
+	
+	display:inline-block;
+	width:75%;
+}
+
+header nav a{
+	color: gray;
+	font-size: 10px;
+	text-align: left;
+	margin: 20px 0px 20px 0px;
+	padding: 30px;
+}
+/****intro style****/
+
+.intro {
+  text-align: center;
+  margin:20px 0px 20px 0px;
+}
+.intro section{
+
+  display:inline-block;
+  width:42%;
+  height:400px;
+	
+} 
+.intro .intro-a {
+	text-align: center;
+	width:42%;
+}
+.intro .intro-a h1{
+	font-size: 42px;
+	margin-top:10px;
+} 
+
+.intro img{
+	text-align: center;
+}
+
+
+
+.info1 {
+text-align:center;
+margin: 20px 0px 20px 0px;
+
+}
+
+.info1 section{
+	display:inline-block;
+	text-align: left;
+	width:42%;
+}
+
+.Img-info {
+	text-align:center;
+	margin: 20px 0px 20px 0px;
+}
+ .middle-img {
+	  width:85%;
+}
+
+
+.info2{
+	text-align:center;
+	margin: 20px 0px 20px 0px;
+}
+
+.info2 section{
+	display:inline-block;
+	text-align: left;
+	width:28%;
+}
+
+footer{
+
+	text-align: left;
+	width:85%;
+	margin-left: 8%;
+}
+
+.copyright{
+	text-align: center;
+}
+/***nav img{
+	display: inline-block;
+    width: 16%;
+	text-align: center;
+	margin:0  40px ;
+}
+section {
+	display:inline-block;
+	width:300px;
+	height:100px;
+}
+
+
+/***header div{
+	display: block;
+
+}***/
